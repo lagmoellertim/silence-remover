@@ -1,0 +1,1 @@
+from silence_remover.media_editor.media_editor import MediaEditor
